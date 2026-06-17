@@ -1,2 +1,2 @@
 # SupplyChain
-Repository for Supply Chain and Inventory Agents
+Repository for Supply Chain Analytics and Strategic Inventory Agents
